@@ -54,5 +54,6 @@ read the documentation for the classes SdFat, SdFatEX, SdBaseFile,
 SdFile, File, StdioStream, ifstream, ofstream, and others.
  
 Please continue by reading the html documentation.
+You may open the html documentation without downloading with [this link](http://htmlpreview.github.io/?https://github.com/greiman/SdFat/blob/master/extras/html/index.html)
 
 Updated 26 Apr 2017
